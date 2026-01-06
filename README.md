@@ -1,6 +1,6 @@
 # TokoGPT Chat
 
-This is a Next.js starter project for Firebase Studio that provides an AI-powered grocery assistant called TokoGPT.
+This is a Next.js starter project  that provides an AI-powered grocery assistant called TokoGPT.
 
 ## Overview
 
