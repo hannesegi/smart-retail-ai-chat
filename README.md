@@ -8,11 +8,11 @@ TokoGPT is a versatile AI assistant designed for both online and offline shoppin
 
 ### Login Page
 
-![Login Page](./public/img/page1.png)
+![Login Page](./page1.png)
 
 ### Chat Interface
 
-![Chat Interface](./public/img/page2.png)
+![Chat Interface](./page2.png)
 
 
 ## Getting Started
