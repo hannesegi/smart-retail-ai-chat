@@ -6,13 +6,19 @@ This is a Next.js starter project for Firebase Studio that provides an AI-powere
 
 TokoGPT is a versatile AI assistant designed for both online and offline shopping experiences. It helps users with product discovery, location, and knowledge, whether they are in a supermarket or browsing from home.
 
-### Login Page
+<table>
+  <tr>
+    <td align="center">
+      <b>Login Page</b><br>
+      <img src="public/img/page1.png" width="350"/>
+    </td>
+    <td align="center">
+      <b>Chat Interface</b><br>
+      <img src="public/img/page2.png" width="350"/>
+    </td>
+  </tr>
+</table>
 
-![Login Page](./page1.png)
-
-### Chat Interface
-
-![Chat Interface](./page2.png)
 
 
 ## Getting Started
